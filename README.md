@@ -2,6 +2,8 @@
 
 用道路连接世界
 
+https://curseforge.com/minecraft/mc-mods/ceaseless-coming-and-going
+
 “往来无穷”模组将会搜索世界中的结构，利用算法在结构之间生成道路互相连接。
 默认只会连接村庄，可以在配置文件中添加更多可供连接的结构。
 

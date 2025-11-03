@@ -1,0 +1,29 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+大结构.md
+生成测试流程.md
+sy
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+runs
+run-data
+
+repo
